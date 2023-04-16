@@ -1,6 +1,7 @@
 # Blackhawk Drone Swarming challenge    
+![simulation_pattern](heart_pattern.png)
 
-## Checkout the simulation video [here](https://drive.google.com/file/d/1TLw0VSwb81IU3fiiT_OFkF70c5mow6xp/view?usp=share_link)    
+## Checkout the simulation video [here](https://drive.google.com/file/d/1XbinDFfob-BMQ1a7NR1q-KxYJ1RgrzfL/view?usp=share_link)    
 
 ## System Requirements :    
 1. ubuntu 20.04 Desktop version
@@ -149,7 +150,7 @@ bash ./pattern.sh
 ``` 
 
 ## World File
-![iq](world.jpg)
+![world](line_world.png)
 
 ## References
 
