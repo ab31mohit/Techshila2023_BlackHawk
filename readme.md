@@ -112,7 +112,7 @@ echo 'export GAZEBO_MODEL_PATH=~/ardupilot_gazebo/models' >> ~/.bashrc
 cd
 mkdir -p catkin_ws/src
 cd catkin_ws/src
-git clone https://github.com/Blackhawk2624/Blackhawk_PS.git
+git clone https://github.com/ab31mohit/Techshila2023_BlackHawk
 cd ..
 catkin_make
 ```
